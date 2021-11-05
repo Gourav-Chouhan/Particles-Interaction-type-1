@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0%;
+}
+
+body {
+  overflow: hidden;
+  color: #00cc0080;
+}
+
+#cvs {
+  position: absolute;
+  z-index: -1;
+  cursor: none;
+}
